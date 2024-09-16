@@ -1,8 +1,9 @@
-# React + Vite
+# Weather Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Integrated the Open Weather Map API to fetch and display current weather data for any location, including
+  temperature, humidity, Minimum and Maximum temperature.
+  
+– Used React hooks like useState and useEffect to manage asynchronous API calls and state updates.
 
-Currently, two official plugins are available:
+– Implemented Material UI for creating an attractive and responsive user interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
