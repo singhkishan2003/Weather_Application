@@ -1,4 +1,4 @@
-# Weather Application
+# Weather Application Project
 
 This Weather Application is a React-based application that allows users to search for weather information of various locations. The app uses Material UI for a responsive and modern design.
 
