@@ -1,6 +1,6 @@
 # Weather Application
 
-This Weather App is a React-based application that allows users to search for weather information of various locations. The app uses Material UI for a responsive and modern design.
+This Weather Application is a React-based application that allows users to search for weather information of various locations. The app uses Material UI for a responsive and modern design.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This Weather App is a React-based application that allows users to search for we
 
 ## Introduction
 
-The Weather App provides real-time weather data for different cities. Users can enter a city name to get the current temperature, weather conditions, humidity, and more. The app is built using React and leverages Material UI components for a polished user interface.
+The Weather Application provides real-time weather data for different cities. Users can enter a city name to get the current temperature, weather conditions, humidity, and more. The app is built using React and leverages Material UI components for a polished user interface.
 
 ## Technologies Used
 
